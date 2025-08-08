@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SeanSan06
-- 👀 I’m interested in drawing
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on computer vision project
-- 📫 How to reach me seanksan@gmail.com
+- 👋 Hi, my name is Sean San. I am a 2nd-year CS major at UCI.
+- 📄Github: @SeanSan06
+- 📫 How to reach me seanksan@gmail.com  
+- 👀 I’m interested in AI, web dev, and game dev
+- 🌱 I’m currently learning C++ and web developement
+
 
 <!---
 SeanSan06/SeanSan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
