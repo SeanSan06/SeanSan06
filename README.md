@@ -2,7 +2,9 @@
 - 📄Github: @SeanSan06
 - 📫 How to reach me seanksan@gmail.com  
 - 👀 I’m interested in AI, web dev, and game dev
-- 🌱 I’m currently learning C++ and web developement
+- 🌱 I’m currently learning:
+        >C++ through Harvard CS50
+        >Web developement through The Odin Project
 
 
 <!---
