@@ -1,10 +1,12 @@
+## About me:
 - 👋 Hi, my name is Sean San. I am a 2nd-year CS major at UCI.
-- 📄Github: @SeanSan06
 - 📫 How to reach me seanksan@gmail.com  
 - 👀 I’m interested in AI, web dev, and game dev
 - 🌱 I’m currently learning:
-        >C++ through Harvard CS50
-        >Web developement through The Odin Project
+  - C through Harvard CS50
+  - Full stack web dev through The Odin Project
+  - DSA at UCI
+ 
 
 
 <!---
