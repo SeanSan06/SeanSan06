@@ -1,12 +1,16 @@
-## About me:
-- 👋 Hi, my name is Sean San. I am a 2nd-year CS major at UCI.
-- 📫 How to reach me seanksan@gmail.com  
-- 👀 I’m interested in AI, web dev, and game dev
+# About me:
+- 👋 Hello there, my name is Sean San.
+- I am a 2nd-year CS major at UCI.
+- 📫 How to reach me seanksan@gmail.com
+- 👀 I’m interested in Machine learning, web development, and game development
 - 🌱 I’m currently learning:
   - C through Harvard CS50
-  - Full stack web dev through The Odin Project
-  - DSA at UCI
- 
+  - Full-stack web development through The Odin Project
+  - Data structures and algorithms at UCI
+
+## Current Projects:
+- Todo list application with backend data storage.
+- Rock Paper Scissors game using JS so it can be played within a browser.
 
 
 <!---
