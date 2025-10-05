@@ -1,6 +1,6 @@
 # About me:
 - 👋 Hello there, my name is Sean San.
-- I am a 2nd-year CS major at UCI.
+- 🏫 I am a 2nd-year CS major at UCI.
 - 📫 How to reach me seanksan@gmail.com
 - 👀 I’m interested in Machine learning, web development, and game development
 - 🌱 I’m currently learning:
