@@ -9,8 +9,8 @@
   - Data structures and algorithms at UCI
 
 ## Current Projects:
-- Todo list application with backend data storage through SQLite.
-- Pixel Drawing App(Etch-a-Sketch) with the ability to export drawings as PNGs.
+- A full-stack web application allowing users to interact with a map and mark/create events.
+- A calculator web application that saves a user's previous calculations.
 
 
 <!---
