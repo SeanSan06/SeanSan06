@@ -2,16 +2,15 @@
 - 👋 Hello there, my name is Sean San.
 - 🏫 I am a 2nd-year CS major at UCI.
 - 📫 How to reach me seanksan@gmail.com
-- 👀 I’m interested in machine learning, web development, and game development
+- 👀 I’m interested in machine learning abd full-stack web development
 - 🌱 I’m currently learning:
   - C through Harvard CS50
   - Full-stack web development through The Odin Project
   - Data structures and algorithms at UCI
 
 ## Current Projects:
-- A full-stack web application allowing users to interact with a map and mark/create events.
-- A calculator web application that saves a user's previous calculations.
-
+- Developing with a team to polish a full-stack web application allowing UCI students to interact with a map and mark/create events.
+- Solo developing full-stack web application that allows users to sync their playlists across YouTube and Spotify.
 
 <!---
 SeanSan06/SeanSan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
