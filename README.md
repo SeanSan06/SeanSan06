@@ -1,9 +1,9 @@
 # About me:
-- 👋 Hello there, my name is Sean San.
-- 🏫 I am a 2nd-year CS major at UCI.
-- 📫 How to reach me seanksan@gmail.com
-- 👀 I’m interested in machine learning and full-stack web development
-- 🌱 I’m currently learning:
+- Hello there, my name is Sean San.
+- I am a 2nd-year CS major at UCI.
+- How to reach me seanksan@gmail.com
+- I’m interested in machine learning and full-stack web development
+- I’m currently learning:
   - C through Harvard CS50
   - Full-stack web development through The Odin Project
   - Design and Analysis of Algorithms at UCI
