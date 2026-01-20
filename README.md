@@ -8,9 +8,11 @@
   - Full-stack web development through The Odin Project
   - Design and Analysis of Algorithms at UCI
   - Introduction to Artificial Intelligence at UCI
+  - Information Retrieval at UCI
+  - Human Computer Interaction at UCI
 
 ## Current Projects:
-- Developing with a team to polish a full-stack web application, allowing UCI students to interact with a map and mark/create events.
+- Devleoping with a team to create a production ready website that allows users to create/revise resumes, prepare for interviews, and apply to jobs all in one place.
 - Solo developing full-stack web application that allows users to sync their playlists across YouTube and Spotify. Additionally, using machine learning to give song recommendations based on users' playlists.
 
 <!---
