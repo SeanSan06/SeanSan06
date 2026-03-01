@@ -12,6 +12,9 @@
   - Human Computer Interaction at UCI
 
 ## Current Projects:
+### Claw Bot:
+- Developing with a team for Irvine Hacks to create a real time tracker and jail for Clawbot. Designing a modern UI dashboard to keep a log of what tools Clawbot is running. 
+
 ### The Method:
 - Developing with a team to create a production-ready website that allows users to create/revise resumes, prepare for behavioral interviews, and apply to jobs, all in one place.
   - Currently we are using React, PostgreSQL w/ SQLAlchemy, Docker, and Python w/ FastAPI.
