@@ -1,27 +1,31 @@
 # About me:
 - Hello there, my name is Sean San.
 - I am a 2nd-year CS major at UCI.
-- How to reach me seanksan@gmail.com
+- How to reach me: seanksan@gmail.com
 - I’m interested in full-stack development & machine learning
 - I’m currently learning:
   - C through Harvard CS50
-  - Full-stack web development through The Odin Project
+  - Full-stack development through The Odin Project
   - Design and Analysis of Algorithms at UCI
   - Introduction to Artificial Intelligence at UCI
   - Information Retrieval at UCI
   - Human Computer Interaction at UCI
 
 ## Current Projects:
-### Claw Bot:
-- Developing with a team for Irvine Hacks to create a real time tracker and jail for Clawbot. Designing a modern UI dashboard to keep a log of what tools Clawbot is running. 
+### Claw-Jail(Irvine Hacks 2026 AI Safety Winner):
+- Working with a team of developers to expand upon our real-time security dashboard for monitoring OpenClaw.
+- Improving the dashboard by adding more security features and tools for IT managers.
+- Adjusting LLMs and WisprFlow to be better and more fine-tuned
 
-### The Method:
+### The Method(Resume optimizer & job applier):
 - Developing with a team to create a production-ready website that allows users to create/revise resumes, prepare for behavioral interviews, and apply to jobs, all in one place.
-  - Currently we are using React, PostgreSQL w/ SQLAlchemy, Docker, and Python w/ FastAPI.
+  - Currently we are using React, PostgreSQL w/ SQLAlchemy, Docker, Groq models, and Python w/ FastAPI.
   - We want to ensure we follow best practices, so we are using GitHub actions for CI/CD. We are also writing test cases and ensuring code stays readable.
+- Deploying the website using Railway in a future update
+
 ### HarmoniXfer:
 - Solo developing a full-stack web application that allows users to sync their playlists across YouTube and Spotify. Additionally, using Scikit-learn to perform machine learning to give song recommendations based on users' playlists.
-  - Currently, I am using HTML, CSS, TypeScript, FastAPI, and SQLite. I am also using the YouTube and Spotify APIs. 
+  - Currently, I am using HTML, CSS, TypeScript, FastAPI, and SQLite. I am also using the YouTube and Spotify APIs.
 
 <!---
 SeanSan06/SeanSan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
